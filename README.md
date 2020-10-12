@@ -9,7 +9,6 @@ Please install the required libaries first, and then run code
 python train.py
 ```
 
-We provide data of 3 HDA tasks for you to try.
 
 Source domain | Target domain | Extra Parameter Setting| Result (Pytorch 1.6.0)
 ------------ | -------------  | ----------             | -----------
