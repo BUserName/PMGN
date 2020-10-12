@@ -14,8 +14,9 @@ We provide data of 3 HDA tasks for you to try.
 Source domain | Target domain | Extra Parameter Setting| Result (Pytorch 1.6.0)
 ------------ | -------------  | ----------             | -----------
 Amazon_Surf  | Webcam_Decaf   | --dis_loss=0.15        | 98.62
-rand_GR      | rand_SP_10     |                        | 
-NUSTAG       | IMGNET         |                        |  
+rand_GR      | rand_SP_10     |                        | 99.60
+NUSTAG       | IMGNET         |                        | 86.29 
+
 
 
 Full dataset can be download at:
