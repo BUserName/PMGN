@@ -23,5 +23,16 @@ Full dataset can be download at:
 * NUS-IMG: https://www.dropbox.com/s/i87qac7kzkwy8d9/datasets.zip
   * (Credits to the Transfer Nerual Trees Repo https://github.com/wyharveychen/TransferNeuralTrees)
 
-* Multilingual Reuters Collection: 
+* Multilingual Reuters Collection: https://drive.google.com/drive/folders/1OeK9wJRjIvxt-tRNZw9cNXAuiytTncu6?usp=sharing
 
+Working Directory
+```
+PMGN
+|-data
+  |- mrc
+  |- Office-Caltech
+  | - ...
+|- utils
+|- ...
+|- train.py
+```
